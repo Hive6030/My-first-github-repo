@@ -1,5 +1,13 @@
 div{
     background-color: tomato;
-    padding: 10px;
-    margin: 10px;
+    padding: 20px;
+    margin: 20px;
+    border:3px solid purple;
+    border-radius: 10px;
+    background-color: floralwhite;
+    border-block-end-color: black;
+
+}
+.m1{
+    box-shadow: purple ;
 }
